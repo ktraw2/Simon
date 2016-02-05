@@ -1,0 +1,27 @@
+c:\users\kevin\documents\visual studio 2012\Projects\Simon\Simon\bin\Debug\Simon.exe.config
+c:\users\kevin\documents\visual studio 2012\Projects\Simon\Simon\bin\Debug\Simon.exe
+c:\users\kevin\documents\visual studio 2012\Projects\Simon\Simon\bin\Debug\Simon.pdb
+c:\users\kevin\documents\visual studio 2012\Projects\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2012\Projects\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2012\Projects\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2012\Projects\Simon\Simon\obj\Debug\Simon.exe
+c:\users\kevin\documents\visual studio 2012\Projects\Simon\Simon\obj\Debug\Simon.pdb
+C:\Users\Kevin\documents\visual studio 2012\Projects\Simon\Simon\obj\Debug\Simon.Main.resources
+C:\Users\Kevin\Google Drive\Simon\Simon\bin\Debug\Simon.exe.config
+C:\Users\Kevin\Google Drive\Simon\Simon\obj\Debug\Simon.exe
+C:\Users\Kevin\Google Drive\Simon\Simon\obj\Debug\Simon.pdb
+C:\Users\Kevin\Google Drive\Simon\Simon\bin\Debug\Simon.exe
+C:\Users\Kevin\Google Drive\Simon\Simon\bin\Debug\Simon.pdb
+C:\Users\Kevin\Google Drive\Simon\Simon\obj\Debug\Simon.Main.resources
+C:\Users\Kevin\Google Drive\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+C:\Users\Kevin\Google Drive\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.Cache
+C:\Users\Kevin\Google Drive\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Simon\Simon\bin\Debug\Simon.exe.config
+C:\Users\Kevin\Desktop\Simon\Simon\obj\Debug\Simon.exe
+C:\Users\Kevin\Desktop\Simon\Simon\obj\Debug\Simon.pdb
+C:\Users\Kevin\Desktop\Simon\Simon\bin\Debug\Simon.exe
+C:\Users\Kevin\Desktop\Simon\Simon\bin\Debug\Simon.pdb
+C:\Users\Kevin\Desktop\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Simon\Simon\obj\Debug\Simon.Main.resources
+C:\Users\Kevin\Desktop\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.Cache
